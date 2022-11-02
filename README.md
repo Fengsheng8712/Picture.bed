@@ -1,2 +1,2 @@
 # Picture.bed
-图床
+PicX图床
